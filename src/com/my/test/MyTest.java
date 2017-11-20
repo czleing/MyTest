@@ -51,7 +51,7 @@ public class MyTest {
 		List<Date[]> dl = new ArrayList<Date[]>();
 		for(int i=0,j=newBeginDates.length;i<j;i++){
 			if(type == 1){//并集
-				
+				//
 			} else if (type == 2){//交集
 				
 			}
