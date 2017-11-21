@@ -42,7 +42,7 @@ public class MyTest {
 		Student s = m.get("s");
 		s.name = "bbb"; 
 		System.out.println(d.name);*/
-		
+		//bbbbbbbb
 		//System.out.println(new Integer(1) == new Integer(1));
 		BigDecimal b = new BigDecimal("168.00");
 		System.out.println(b.equals(new BigDecimal("168.00")));
