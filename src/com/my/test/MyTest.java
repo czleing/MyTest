@@ -41,8 +41,8 @@ public class MyTest {
 		m.put("s", d);
 		Student s = m.get("s");
 		s.name = "bbb"; 
-		System.out.println(d.name);*/
-		
+		System.out.println(d.name);  */
+		//aaaaaaaaaa
 		//System.out.println(new Integer(1) == new Integer(1));
 		BigDecimal b = new BigDecimal("168.00");
 		System.out.println(b.equals(new BigDecimal("168.00")));
