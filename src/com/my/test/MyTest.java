@@ -40,7 +40,7 @@ public class MyTest {
 		Map<String,Student> m = new HashMap<String, Student>();
 		m.put("s", d);
 		Student s = m.get("s");
-		s.name = "bbb";
+		s.name = "bbb"; 
 		System.out.println(d.name);*/
 		
 		//System.out.println(new Integer(1) == new Integer(1));
