@@ -4,23 +4,21 @@ import java.math.BigDecimal;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 
 
 public class MyTest {
-
+	
 	/**
 	 * @param args
 	 * @throws ParseException 
 	 */
-	public static void main(String[] args) throws ParseException {
+	public static void main( String[] args ){
 		// TODO Auto-generated method stub
-//		for(int i=41;i<=90;i++){
-//			System.out.print(" else if(\"objVal"+i+"\" == valName) {\n\treturn objVal"+i+";\n}");
-//		}
+		/*for(int i=41;i<=90;i++){
+			System.out.print(" else if(\"objVal"+i+"\" == valName) {\n\treturn objVal"+i+";\n}");
+		}*/
 		//System.out.println((Math.round(12345678/100.0))/100.0);
 		//SimpleDateFormat sdf = new SimpleDateFormat("yyyyMM");
 		//Date date = sdf.parse("201604");
@@ -41,6 +39,7 @@ public class MyTest {
 		m.put("s", d);
 		Student s = m.get("s");
 		s.name = "bbb"; 
+		*/
 		//bbbbbbbb
 		//aaaaaaaaaa
 		//System.out.println(new Integer(1) == new Integer(1));
